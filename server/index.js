@@ -44,6 +44,16 @@ app.post("/add", async (req, res) => {
     }
 })
 
+app.delete('/delete/:id', async (req,res)=>{
+    try {
+        const {id} = req.params;
+        const del = await Todo.findOneAndDelete({_id: id})
+        res.json(del)
+    } catch (error) {
+        console.log(error);
+    }
+})
+
 app.listen(PORT, () => {
     console.log(`Server is running at PORT http://localhost:${PORT}`);
 })
