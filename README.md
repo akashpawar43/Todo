@@ -72,6 +72,10 @@ Technologies used in the project:
 
 <img src="https://github.com/akashpawar43/Todo/blob/master/client/src/assets/addData.png" alt="project-screenshot" >
 
+4. Delete Your todo 
+
+<img src="https://github.com/akashpawar43/Todo/blob/master/client/src/assets/delete.png" alt="project-screenshot" >
+
 4. No data 
 
 <img src="https://github.com/akashpawar43/Todo/blob/master/client/src/assets/noData.png" alt="project-screenshot" >
