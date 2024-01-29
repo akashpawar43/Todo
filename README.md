@@ -11,7 +11,7 @@ Here're some of the project's best features:
 *   Add Todo
 *   get Todo list
 *   Update Status
-*   Delete Note
+*   Delete Todo
 
 
 <h2>🛠️ Installation Steps:</h2>
