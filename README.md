@@ -62,16 +62,16 @@ Technologies used in the project:
 
 1. Get all Todo list
 
-<img src="https://github.com/akashpawar43/Todo/blob/master/src/assets/data.png" alt="project-screenshot" >
+<img src="https://github.com/akashpawar43/Todo/blob/master/client/src/assets/data.png" alt="project-screenshot" >
 
 2. update Status of todo 
 
-<img src="https://github.com/akashpawar43/Todo/blob/master/src/assets/update.png" alt="project-screenshot" >
+<img src="https://github.com/akashpawar43/Todo/blob/master/client/src/assets/update.png" alt="project-screenshot" >
 
 3. Add Your todo 
 
-<img src="https://github.com/akashpawar43/Todo/blob/master/src/assets/addData.png" alt="project-screenshot" >
+<img src="https://github.com/akashpawar43/Todo/blob/master/client/src/assets/addData.png" alt="project-screenshot" >
 
 4. No data 
 
-<img src="https://github.com/akashpawar43/Todo/blob/master/src/assets/noData.png" alt="project-screenshot" >
+<img src="https://github.com/akashpawar43/Todo/blob/master/client/src/assets/noData.png" alt="project-screenshot" >
