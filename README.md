@@ -1,6 +1,6 @@
-<h1 align="center" id="title">Notes</h1>
+<h1 align="center" id="title">TODO</h1>
 
-<p id="description">Notes app Build using MERN Stack. Allowing to Creating User's registration, Login, Adding Notes, Update and Delete Notes within app.</p>
+<p id="description">Todo app Build using MERN Stack. Allowing to Creating Todo list, Update and Delete Todo list within app.</p>
 
   
   
@@ -9,6 +9,7 @@
 Here're some of the project's best features:
 
 *   Add Todo
+*   get Todo list
 *   Update Status
 *   Delete Note
 
@@ -46,7 +47,6 @@ npm run dev
 ```
 
   
-  
 <h2>💻 Built with</h2>
 
 Technologies used in the project:
@@ -56,3 +56,22 @@ Technologies used in the project:
 *   Mongodb
 *   ExpressJS
 *   Tailwind CSS
+
+
+<h2>Project Screenshots:</h2>
+
+1. Get all Todo list
+
+<img src="https://github.com/akashpawar43/Todo/blob/master/src/assets/data.png" alt="project-screenshot" >
+
+2. update Status of todo 
+
+<img src="https://github.com/akashpawar43/Todo/blob/master/src/assets/update.png" alt="project-screenshot" >
+
+3. Add Your todo 
+
+<img src="https://github.com/akashpawar43/Todo/blob/master/src/assets/addData.png" alt="project-screenshot" >
+
+4. No data 
+
+<img src="https://github.com/akashpawar43/Todo/blob/master/src/assets/noData.png" alt="project-screenshot" >
